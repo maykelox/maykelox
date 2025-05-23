@@ -65,6 +65,12 @@ AWS Educate: Getting Started with Storage – AWS
 
 📧 Email: migueljoelb21@gmail.com
 
+
+🧠 Frase que me define:
+"Los datos cuentan historias. Yo estoy aprendiendo a interpretarlas."
+
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -76,11 +82,3 @@ AWS Educate: Getting Started with Storage – AWS
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebaf96&layout=compact&theme=gotham" />
 </a>
-
-🧠 Frase que me define:
-"Los datos cuentan historias. Yo estoy aprendiendo a interpretarlas."
-
-
-# GitHub Mi Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=migueljoelb&theme=merko&locale=es)](https://git.io/streak-stats)
