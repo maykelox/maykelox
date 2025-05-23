@@ -1,8 +1,10 @@
 # 🧑‍💻 Hola!, Soy Miguel Joel 
 # 💼 Técnico en Bases de Datos | Analista de Datos Junior | En formación continua
 
-<div align="center">
-<h2> Hola! <Analista de Datos Junior/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<div align="center" width="50">
+
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+
 </div>
 
 Hola 👋 Soy Miguel Joel, apasionado por los datos, la tecnología y el aprendizaje constante. He desarrollado proyectos de análisis de datos aplicando Python, Power BI y SQL Server, y actualmente estoy construyendo un portafolio orientado a resolver problemas reales de negocio.
