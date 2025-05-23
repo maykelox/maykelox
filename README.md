@@ -1,11 +1,9 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 # 🧑‍💻 Hola!, Soy Miguel Joel 
 # 💼 Técnico en Bases de Datos | Analista de Datos Junior | En formación continua
 
-<div align="center" width="50">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
-
-</div>
 
 Hola 👋 Soy Miguel Joel, apasionado por los datos, la tecnología y el aprendizaje constante. He desarrollado proyectos de análisis de datos aplicando Python, Power BI y SQL Server, y actualmente estoy construyendo un portafolio orientado a resolver problemas reales de negocio.
 
