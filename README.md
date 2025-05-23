@@ -65,6 +65,18 @@ AWS Educate: Getting Started with Storage – AWS
 
 📧 Email: migueljoelb21@gmail.com
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+# Github Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sebaf96&hide=stars,issues&count_private=true&show_icons=true&theme=gotham"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebaf96&layout=compact&theme=gotham" />
+</a>
+
 🧠 Frase que me define:
 "Los datos cuentan historias. Yo estoy aprendiendo a interpretarlas."
 
